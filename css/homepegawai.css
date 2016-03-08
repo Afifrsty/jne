@@ -1,0 +1,22 @@
+body {
+	margin:0 auto;
+	padding:0;
+	background:#e9e2d8;
+}
+
+#wrapper > .item {
+	display:inline-block;
+	margin: 4px 8px;
+}
+
+#wrapper .item > .item-img {
+	width:320px;
+	height:210px;
+	background:url(../images/infobarang.jpg) repeat;
+}
+
+#wrapper .item > .item-text {
+	padding:4px 0;
+	margin:0;
+	text-align:center;
+}

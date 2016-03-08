@@ -1,0 +1,109 @@
+html {
+  font-size: 100%;
+  line-height: 1.5;
+  height: 100%;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+  min-height: 100%;
+  color: #777;
+}
+
+#kotak {
+	  width: 520px;
+    height: 480px;
+    background: #fff;
+    margin: 150px auto 100px auto;
+    margin-top:100px;
+    color:#1b8aae;
+    box-shadow: 1px 1px 10px 3px rgba(0,0,0,0.5);
+    border-radius:8px;
+}
+#id {
+	width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #1b8aae;
+    padding-left:10px;
+    color:#1b8aae;
+    border-radius:14px;
+}
+
+#nama_brg {
+	width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #1b8aae;
+    padding-left:10px;
+    color:#1b8aae;
+    border-radius:14px;
+}
+
+#nama_cus {
+  width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #1b8aae;
+    padding-left:10px;
+    color:#1b8aae;
+    border-radius:14px;
+}
+
+#berat {
+  width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #1b8aae;
+    padding-left:10px;
+    color:#1b8aae;
+    border-radius:14px;
+}
+
+#jenis {
+  width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #1b8aae;
+    padding-left:10px;
+    color:#1b8aae;
+    border-radius:14px;
+}
+
+#tujuan {
+  width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #1b8aae;
+    padding-left:10px;
+    color:#1b8aae;
+    border-radius:14px;
+}
+
+#button {
+  border: 0;
+  font-size: 0.75rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  padding: 0 1.5rem;
+  color: white;
+  background: #1b8aae;
+  text-transform: uppercase;
+  border-radius:14px;
+  letter-spacing: .2em;
+  transition: background .2s;
+}

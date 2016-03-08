@@ -1,0 +1,47 @@
+html {
+  font-size: 100%;
+  line-height: 1.5;
+  height: 100%;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+  min-height: 100%;
+  color: #777;
+}
+
+#kotak {
+	width: 520px;
+    height: 300px;
+    background: #fff;
+    margin: 150px auto 100px auto;
+    margin-top:100px;
+    color:#2fc0d1;
+    box-shadow: 1px 1px 10px 3px rgba(0,0,0,0.5);
+    border-radius:8px;
+}
+#nama {
+	width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #8b4513;
+    padding-left:10px;
+    color:#8b4513;
+    border-radius:14px;
+}
+
+#pass {
+	width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #8b4513;
+    padding-left:10px;
+    color:#8b4513;
+    border-radius:14px;
+}

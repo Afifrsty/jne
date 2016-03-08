@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none; 
+}
+
+html, body {
+    background-color: #FF7A00;
+    height: 100%;
+    font-family: 'Eras Demi ITC', Worksans;
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+    background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+    font-size: 100%;
+    line-height: 3.5;
+}
+
+#header {
+    position: solid;
+    height: 100px;
+    width: 100%;
+    background: #ffffff;
+    border-bottom-color: #2fc0d1;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    z-index: 100;
+    font-size: 25px;
+    line-height: 1.75;
+}
+
+#font{
+  font-size:17px;
+  font-family: 'Eras Demi ITC';
+  color:#000000;
+  padding:10px;
+  line-height: 2;
+}
+
+
+#wrap {
+    position: relative;
+    height: 100%;
+}
+
+#wrap_content {
+}
+
+#kotak {
+    width: 500px;
+    height: 300px;
+    background: #fff;
+    margin: 100px auto 50px auto;
+    margin-top:20px;
+    color:#2fc0d1;
+    box-shadow: 3px 2px 10px 5px rgba(0,0,0,0.5);
+    border-radius:10px;
+}
+#atas{
+    height: 400px;
+    width: 40px;
+    text-align: center;
+    font-size: 15pt;
+    padding-top:20px;
+}
+#bawah{
+    height: 400px;
+    width: 40px;
+    border-radius:8px;
+}
+
+.masuk{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #2fc0d1;
+    padding-left:10px;
+    color:#2fc0d1;
+    border-radius:8px;
+}
+.masuk:focus{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    padding-left:10px;
+    color:#2fc0d1;
+    outline: none;
+    box-shadow: 0 0 5px #2fc0d1;
+    border-radius:8px;
+}
+ 
+
+#tombol{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    background: #1b8aae;
+    border:none;
+    color:#fff;
+    font-size: 14pt;
+    outline:none;
+    border-radius:7px;
+}
+#tombol:hover {
+    background:#4ae6f8;
+    border-radius:7px;
+
+}
+#footer {
+    position: solid;
+    height: 40px;
+    width: 100%;
+    background: #ffcf43;
+    border-top-color: #2fc0d1;
+    border-top-style: solid;
+    border-top-width: 1px;
+    line-height: 2.5;
+    text-align: center;
+    margin-top: 165px;
+}

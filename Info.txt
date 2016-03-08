@@ -1,0 +1,15 @@
+alamat : localhost/parkir
+
+////////////////////////////////
+
+
+User : 
+
+Admin = Username : admin
+	Password : admin
+
+Petugas Masuk = Username : P_Masuk
+		Password : P_Masuk
+
+Petugas Keluar = Username : P_Keluar
+		 Password : P_Keluar
